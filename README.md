@@ -18,8 +18,8 @@ If you are not building from source and opt to take an already-made jar file, th
 ### Tested Versions
 Forge 47.3.0 1.20.1.
 
-### Where is the documentation?
-On the next commit (on version 1.0.1), I will write the documentation for this mod, allowing for beginner developers to navigate this codebase more easily.
+### Where is the documentation? (Post-installation manual)
+Click here to get started: [Documentation](./docs/tutorial.md)
 
 ### Where is the config?
 After running the mod, you will find a .toml file titled frosautorestart-server.toml. This file is located within the config folder.
