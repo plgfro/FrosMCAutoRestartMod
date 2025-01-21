@@ -1,3 +1,6 @@
+// TODO (had to write it here), consider fusing tutorial.md and README.md, and finish up your source_reference.md
+// then finish up the mod.
+
 package com.andrometa.froautorestart;
 
 import com.andrometa.froautorestart.events.CommandRegister;
